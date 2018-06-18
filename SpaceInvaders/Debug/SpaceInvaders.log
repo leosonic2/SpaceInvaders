@@ -1,0 +1,7 @@
+﻿  Jogo.cpp
+d:\faculdade\cg\aula pratica\spaceinvaders\spaceinvaders\jogo.cpp(121): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\faculdade\cg\aula pratica\spaceinvaders\spaceinvaders\jogo.cpp(122): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\faculdade\cg\aula pratica\spaceinvaders\spaceinvaders\jogo.cpp(124): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+d:\faculdade\cg\aula pratica\spaceinvaders\spaceinvaders\jogo.cpp(125): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+d:\faculdade\cg\aula pratica\spaceinvaders\spaceinvaders\jogo.cpp(131): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  SpaceInvaders.vcxproj -> D:\Faculdade\CG\Aula pratica\SpaceInvaders\Debug\SpaceInvaders.exe
